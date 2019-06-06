@@ -27,5 +27,7 @@ router.post('/comments/:id', (req, res) => {
 })
 
 router.get('/', (req, res) => {
-  res.render('view', data)
+  res.render('index', data)
 })
+
+module.exports = router
