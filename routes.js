@@ -10,7 +10,11 @@ router.get('/:id', (req, res) => {
 
 router.post('/comments/:id', (req, res) => {
   const foodIndex = data.restaurants.findIndex(restaurant => req.params.id == restaurant.id)
-  data.restaurants[foodIndex].push({})
+  data.restaurants[foodIndex].comments.push({
+    
+    name: req.body.name,
+    comment: req.body.comment
+  })
   fs.writeFile('./data.json', JSON.stringify(data, null, 2), (err) => {
     if (err) {
       console.error(err)
@@ -18,4 +22,15 @@ router.post('/comments/:id', (req, res) => {
     };
   })
   res.redirect(`/${req.params.id}`)
+})
+
+
+
+
+
+
+
+
+router.get('/', (req, res) => {
+  res.render('view', data)
 })
