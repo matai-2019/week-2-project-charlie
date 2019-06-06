@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router()
 const data = require('./data.json')
-const fs = require("fs")
+const fs = require('fs')
 
 router.get('/:id', (req, res) => {
   const foundFood = data.restaurants.find(restaurant => req.params.id == restaurant.id)
@@ -32,5 +32,7 @@ router.post('/comments/:id', (req, res) => {
 
 
 router.get('/', (req, res) => {
-  res.render('view', data)
+  res.render('index', data)
 })
+
+module.exports = router
