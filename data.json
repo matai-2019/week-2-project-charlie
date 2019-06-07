@@ -96,16 +96,12 @@
     {
       "id": 5,
       "name": "Ichiban",
-      "image": "/images/ichibanramen.jpg",
-      "rating": 3.9,
+      "image": "/images/cheese-ramen.jpg",
+      "rating": "3.9",
       "price": "$$",
-      "location": "350m",
+      "location": "351m",
       "url": "www.zomato.com/auckland/ichiban-japanese-restaurant-newmarketer.co.nz",
-      "keywords": [
-        "Ramen",
-        "Comfort Food",
-        "Japanese"
-      ],
+      "keywords": "Ramen,Comfort Food,Japanese",
       "comments": [
         {
           "name": "Taine",
@@ -114,14 +110,6 @@
         {
           "name": "Ash",
           "comment": "Gucci"
-        },
-        {
-          "name": "David",
-          "comment": "Noice"
-        },
-        {
-          "name": "andre",
-          "comment": "the newmarket one isn't as good as the CDB one."
         }
       ],
       "_locals": {}

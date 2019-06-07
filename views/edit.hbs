@@ -1,0 +1,39 @@
+<form class="form" action="/edit/{{id}}" method="post" enctype="multipart/form-data">
+  <img class="img-circle" src="{{image}}" alt="{{name}}">
+  <label for="name" class="form-item">
+    Name:
+    <input type="text" name="name" value="{{name}}">
+  </label>
+
+<label for="name" class="form-item">
+    Name:
+    <input type="file" name="image" multiple>
+  </label>
+  
+  <label for="rating" class="form-item">
+    rating:
+    <input type="text" name="rating" value="{{rating}}">
+  </label>
+  
+  <label for="price" class="form-item">
+    price:
+    <input type="text" name="price" value="{{price}}">
+  </label>
+
+    <label for="location" class="form-item">
+    price:
+    <input type="text" name="location" value="{{location}}">
+  </label>
+
+    <label for="url" class="form-item">
+    price:
+    <input type="text" name="url" value="{{url}}">
+  </label>
+
+    <label for="keywords" class="form-item">
+    price:
+    <input type="text" name="keywords" value="{{keywords}}">
+  </label>
+  <input type="hidden" name="id" value="{{id}}">
+  <input type="submit" name="" value="Submit">
+</form>
