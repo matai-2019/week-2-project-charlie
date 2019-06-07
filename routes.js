@@ -26,6 +26,23 @@ router.post('/comments/:id', (req, res) => {
   res.redirect(`/${req.params.id}`)
 })
 
+router.post('/edit/:id', (req, res) => {
+  const foodIndex = data.restaurants.findIndex(restaurant => req.params.id == restaurant.id)
+  data.restaurants[foodIndex].name = req.body.name
+  data.restaurants[foodIndex].image = req.body.image
+  data.restaurants[foodIndex].rating = req.body.rating
+  data.restaurants[foodIndex].price = req.body.price
+  data.restaurants[foodIndex].url = req.body.url
+  data.restaurants[foodIndex].keywords = req.body.keywords
+
+  fs.writeFile('./data.json', JSON.stringify(data, null, 2), (err) => {
+    if (err) {
+      console.error(err)
+    }
+  })
+  res.redirect(`/${req.params.id}`)
+})
+
 router.get('/', (req, res) => {
   res.render('home', data)
 })
