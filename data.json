@@ -44,8 +44,17 @@
         {
           "name": "Ash",
           "comment": "Gucci"
+        },
+        {
+          "name": "David",
+          "comment": "So Noice!"
+        },
+        {
+          "name": "Andre",
+          "comment": "THIS PLACE SUCKS!!!! UM THE FOOD IS DUMB."
         }
-      ]
+      ],
+      "_locals": {}
     },
     {
       "id": 3,
@@ -67,8 +76,13 @@
         {
           "name": "Ash",
           "comment": "Gucci"
+        },
+        {
+          "name": "Raaya",
+          "comment": "Too small for the price =("
         }
-      ]
+      ],
+      "_locals": {}
     },
     {
       "id": 4,
@@ -109,19 +123,19 @@
       "comments": [
         {
           "name": "Taine",
-          "comment": "Nice as g"
+          "comment": "This place is sick. The pizza is really good."
         },
         {
           "name": "Ash",
-          "comment": "Gucci"
+          "comment": "This place isn't just good, it's Gucci."
         },
         {
           "name": "David",
-          "comment": "Noice"
+          "comment": "Noice Noice Noice Noice Noice Noice"
         },
         {
-          "name": "andre",
-          "comment": "the newmarket one isn't as good as the CDB one."
+          "name": "Andre",
+          "comment": "the newmarket one isn't as good as the CBD one."
         }
       ],
       "_locals": {}
@@ -241,7 +255,9 @@
           "name": "Ash",
           "comment": "Gucci"
         }
-      ]
+      ],
+      "_locals": {}
     }
-  ]
+  ],
+  "_locals": {}
 }
