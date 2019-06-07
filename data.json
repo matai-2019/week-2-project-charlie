@@ -8,10 +8,23 @@
       "price": "$$",
       "location": "280m",
       "url": "www.flyingburritobrothers.co.nz",
-      "keywords": ["Mexican", "Gluten Free", "Vegetarian and Vegan Friendly"],
-      "comments": [{"name": "Taine", "comment": "Nice as g"},
-        {"name": "Ash", "comment": "Gucci"}]
-    }, {
+      "keywords": [
+        "Mexican",
+        "Gluten Free",
+        "Vegetarian and Vegan Friendly"
+      ],
+      "comments": [
+        {
+          "name": "Taine",
+          "comment": "Nice as g"
+        },
+        {
+          "name": "Ash",
+          "comment": "Gucci"
+        }
+      ]
+    },
+    {
       "id": 2,
       "name": "Archies Pizzeria",
       "image": "/images/archies.jpg",
@@ -19,10 +32,22 @@
       "price": "$$",
       "location": "270m",
       "url": "https://www.zomato.com/auckland/archies-pizzeria-newmarket",
-      "keywords": ["Italian", "Vegetarian Friendly"],
-      "comments": [{"name": "Taine", "comment": "Nice as g"},
-        {"name": "Ash", "comment": "Gucci"}]
-    }, {
+      "keywords": [
+        "Italian",
+        "Vegetarian Friendly"
+      ],
+      "comments": [
+        {
+          "name": "Taine",
+          "comment": "Nice as g"
+        },
+        {
+          "name": "Ash",
+          "comment": "Gucci"
+        }
+      ]
+    },
+    {
       "id": 3,
       "name": "Best Ugly Bagels",
       "image": "/images/bestugly.jpg",
@@ -30,10 +55,22 @@
       "price": "$$",
       "location": "350m",
       "url": "www.bestugly.co.nz",
-      "keywords": ["Vegetarian and Vegan Friendly", "Good Coffee"],
-      "comments": [{"name": "Taine", "comment": "Nice as g"},
-        {"name": "Ash", "comment": "Gucci"}]
-    }, {
+      "keywords": [
+        "Vegetarian and Vegan Friendly",
+        "Good Coffee"
+      ],
+      "comments": [
+        {
+          "name": "Taine",
+          "comment": "Nice as g"
+        },
+        {
+          "name": "Ash",
+          "comment": "Gucci"
+        }
+      ]
+    },
+    {
       "id": 4,
       "name": "Burger Burger",
       "image": "/images/burgerburger.jpg",
@@ -41,9 +78,20 @@
       "price": "$$",
       "location": "350m",
       "url": "www.burgerburger.co.nz",
-      "keywords": ["Comfort Food", "Vegetarian and Vegan Friendly"],
-      "comments": [{"name": "Taine", "comment": "Nice as g"},
-        {"name": "Ash", "comment": "Gucci"}]
+      "keywords": [
+        "Comfort Food",
+        "Vegetarian and Vegan Friendly"
+      ],
+      "comments": [
+        {
+          "name": "Taine",
+          "comment": "Nice as g"
+        },
+        {
+          "name": "Ash",
+          "comment": "Gucci"
+        }
+      ]
     },
     {
       "id": 5,
@@ -53,21 +101,53 @@
       "price": "$$",
       "location": "350m",
       "url": "www.zomato.com/auckland/ichiban-japanese-restaurant-newmarketer.co.nz",
-      "keywords": ["Ramen", "Comfort Food", "Japanese"],
-      "comments": [{"name": "Taine", "comment": "Nice as g"},
-        {"name": "Ash", "comment": "Gucci"}]
+      "keywords": [
+        "Ramen",
+        "Comfort Food",
+        "Japanese"
+      ],
+      "comments": [
+        {
+          "name": "Taine",
+          "comment": "Nice as g"
+        },
+        {
+          "name": "Ash",
+          "comment": "Gucci"
+        },
+        {
+          "name": "David",
+          "comment": "Noice"
+        },
+        {
+          "name": "andre",
+          "comment": "the newmarket one isn't as good as the CDB one."
+        }
+      ],
+      "_locals": {}
     },
     {
       "id": 6,
       "name": "Nandos",
       "image": "/images/nandos.jpg",
-      "rating": 4.0,
+      "rating": 4,
       "price": "$$",
       "location": "450m",
       "url": "www.nandos.co.nz",
-      "keywords": ["Comfort Food", "Vegetarian and Vegan Friendly"],
-      "comments": [{"name": "Taine", "comment": "Nice as g"},
-        {"name": "Ash", "comment": "Gucci"}]
+      "keywords": [
+        "Comfort Food",
+        "Vegetarian and Vegan Friendly"
+      ],
+      "comments": [
+        {
+          "name": "Taine",
+          "comment": "Nice as g"
+        },
+        {
+          "name": "Ash",
+          "comment": "Gucci"
+        }
+      ]
     },
     {
       "id": 7,
@@ -77,9 +157,21 @@
       "price": "$",
       "location": "90m",
       "url": "www.pitapit.co.nz",
-      "keywords": ["Healthy", "Vegetarian and Vegan Friendly", "Online Ordering"],
-      "comments": [{"name": "Taine", "comment": "Nice as g"},
-        {"name": "Ash", "comment": "Gucci"}]
+      "keywords": [
+        "Healthy",
+        "Vegetarian and Vegan Friendly",
+        "Online Ordering"
+      ],
+      "comments": [
+        {
+          "name": "Taine",
+          "comment": "Nice as g"
+        },
+        {
+          "name": "Ash",
+          "comment": "Gucci"
+        }
+      ]
     },
     {
       "id": 8,
@@ -89,9 +181,21 @@
       "price": "$",
       "location": "650m",
       "url": "https://pokepoke-newmarket.business.site",
-      "keywords": ["Healthy", "Vegetarian and Vegan Friendly", "Hawaiian"],
-      "comments": [{"name": "Taine", "comment": "Nice as g"},
-        {"name": "Ash", "comment": "Gucci"}]
+      "keywords": [
+        "Healthy",
+        "Vegetarian and Vegan Friendly",
+        "Hawaiian"
+      ],
+      "comments": [
+        {
+          "name": "Taine",
+          "comment": "Nice as g"
+        },
+        {
+          "name": "Ash",
+          "comment": "Gucci"
+        }
+      ]
     },
     {
       "id": 9,
@@ -101,9 +205,20 @@
       "price": "$",
       "location": "83m",
       "url": "https://www.zomato.com/auckland/soul-sushi-newmarket",
-      "keywords": ["Japanese", "Healthy"],
-      "comments": [{"name": "Taine", "comment": "Nice as g"},
-        {"name": "Ash", "comment": "Gucci"}]
+      "keywords": [
+        "Japanese",
+        "Healthy"
+      ],
+      "comments": [
+        {
+          "name": "Taine",
+          "comment": "Nice as g"
+        },
+        {
+          "name": "Ash",
+          "comment": "Gucci"
+        }
+      ]
     },
     {
       "id": 10,
@@ -113,9 +228,20 @@
       "price": "$",
       "location": "450m",
       "url": "www.subway.co.nz",
-      "keywords": ["Healthy", "Vegetarian and Vegan Friendly"],
-      "comments": [{"name": "Taine", "comment": "Nice as g"},
-        {"name": "Ash", "comment": "Gucci"}]
+      "keywords": [
+        "Healthy",
+        "Vegetarian and Vegan Friendly"
+      ],
+      "comments": [
+        {
+          "name": "Taine",
+          "comment": "Nice as g"
+        },
+        {
+          "name": "Ash",
+          "comment": "Gucci"
+        }
+      ]
     }
   ]
 }
