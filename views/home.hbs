@@ -1,22 +1,13 @@
-<h1 class="header center">EAT-D-A</h1>
+<h1 class="header center">YEAT-D-A</h1>
 
 <div class="center rounded container">
-  {{#each data}}
-    <h1>YIKES</h1>
-    {{>summary-tile}}
+  {{#each restaurants}}
+  <div>
+    <a href="/{{id}}">
+      {{>summary-tile}}
+    </a>
+  </div>
   {{/each}}
-  <!--
-  <img class="summary-image" src="/images/archies.jpg" alt="Archie's Pizzeria">
-  <img class="summary-image" src="/images/bestugly.jpg" alt="Best Ugly Bagels">
-  <img class="summary-image" src="/images/burgerburger.jpg" alt="Burger Burger">
-  <img class="summary-image" src="/images/flyingbb.jpg" alt="Flying Burrito Brothers">
-  <img class="summary-image" src="/images/ichibanramen.jpg" alt="Ichiban Ramen">
-  <img class="summary-image" src="/images/nandos.jpg" alt="Nandos">
-  <img class="summary-image" src="/images/pitapit.jpg" alt="Pita Pit">
-  <img class="summary-image" src="/images/pokepoke.jpg" alt="Poke Poke">
-  <img class="summary-image" src="/images/soulsushi.jpg" alt="Soul Sushi">
-  <img class="summary-image" src="/images/subway.jpg" alt="Subway">
-  -->
 </div>
 
 
