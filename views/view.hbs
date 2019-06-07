@@ -1,12 +1,33 @@
-<div>
-  <img src="{{image}}" alt="{{name}}">
-  <h2>{{name}}</h2>
-  <div>rating: {{rating}}</div>
-  <div>price: {{price}}</div>
-  <div>location: {{location}}</div>
-  <div>url: {{url}}</div>
-  <div>keywords: {{keywords}}</div>
-  {{>comment.}}
 
+{{>header}}
+
+<div class="center">
+  <div class="left">
+    <img src="{{image}}" alt="{{name}}" class="image">
+  </div>
+
+  <div class="right">
+    <p>
+      Rating: {{rating}}
+      <br>
+      <br>
+      Price: {{price}}
+      <br>
+      <br>
+      Distance: {{location}}
+      <br>
+      <br>
+      {{#each keywords}}
+        {{this}}<br>
+      {{/each}}
+      <br>
+      <br>
+        <button>
+          <a href={{url}}>Website</a>
+        </button>
+    </p>
+  </div>
+
+  {{>comment.}}
   {{>footer}}
 </div>
