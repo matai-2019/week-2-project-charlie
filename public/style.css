@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.summary-image {
+  width: 400px;
+  height: 400px;
+  margin: 10px;
+
+  border-radius: 3%;
+}
+
+.center {
+  margin: 0px auto;
+  text-align: center;
+  justify-content: center;
+}
+
+.container {
+  max-width: 1400px;
+}
+
+.header {
+  margin-bottom: 0px;
+  width:100%;
+  margin-top: 40px;
+  background-color: grey;
+}
