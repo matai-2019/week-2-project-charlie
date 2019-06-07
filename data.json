@@ -7,7 +7,7 @@
       "rating": 4.4,
       "price": "$$",
       "location": "280m",
-      "url": "www.flyingburritobrothers.co.nz",
+      "url": "https://www.flyingburritobrothers.co.nz",
       "keywords": [
         "Mexican",
         "Gluten Free",
@@ -16,13 +16,14 @@
       "comments": [
         {
           "name": "Taine",
-          "comment": "Nice as g"
+          "comment": "Nice as g. Highly recommend to all the gs."
         },
         {
           "name": "Ash",
-          "comment": "Gucci"
+          "comment": "Omg I love this place so much. It's totes the best."
         }
-      ]
+      ],
+      "_locals": {}
     },
     {
       "id": 2,
@@ -39,11 +40,11 @@
       "comments": [
         {
           "name": "Taine",
-          "comment": "Nice as g"
+          "comment": "Nice as g. Highly recommend to all the gs."
         },
         {
           "name": "Ash",
-          "comment": "Gucci"
+          "comment": "Omg I love this place so much. It's totes the best."
         },
         {
           "name": "David",
@@ -63,7 +64,7 @@
       "rating": 4.6,
       "price": "$$",
       "location": "350m",
-      "url": "www.bestugly.co.nz",
+      "url": "https://www.bestugly.co.nz",
       "keywords": [
         "Vegetarian and Vegan Friendly",
         "Good Coffee"
@@ -71,15 +72,15 @@
       "comments": [
         {
           "name": "Taine",
-          "comment": "Nice as g"
+          "comment": "Nice as g. Highly recommend to all the gs."
         },
         {
           "name": "Ash",
-          "comment": "Gucci"
+          "comment": "Omg I love this place so much. It's totes the best."
         },
         {
-          "name": "Raaya",
-          "comment": "Too small for the price =("
+          "name": "Rahul",
+          "comment": "The flavour has good balance between the mild sweetness of the cream cheese, with the consolidated power of the rest of the ingredients which proves I got my moneys worth. Definitely coming back!!! #bestbagelsever"
         }
       ],
       "_locals": {}
@@ -91,7 +92,7 @@
       "rating": 4.4,
       "price": "$$",
       "location": "350m",
-      "url": "www.burgerburger.co.nz",
+      "url": "https://www.burgerburger.co.nz",
       "keywords": [
         "Comfort Food",
         "Vegetarian and Vegan Friendly"
@@ -99,22 +100,22 @@
       "comments": [
         {
           "name": "Taine",
-          "comment": "Nice as g"
+          "comment": "Omg I love this place so much. It's totes the best."
         },
         {
           "name": "Ash",
-          "comment": "Gucci"
+          "comment": "Gucci Gucci Gucci Gucci Gucci Gucci Gucci Gucci Gucci Gucci"
         }
       ]
     },
     {
       "id": 5,
       "name": "Ichiban",
-      "image": "/images/cheese-ramen.jpg",
+      "image": "/images/ichibanramen.jpg",
       "rating": "3.9",
       "price": "$$",
       "location": "351m",
-      "url": "www.zomato.com/auckland/ichiban-japanese-restaurant-newmarketer.co.nz",
+      "url": "https://www.zomato.com/auckland/ichiban-japanese-restaurant-newmarketer.co.nz",
       "keywords": "Ramen,Comfort Food,Japanese",
       "comments": [
         {
@@ -143,7 +144,7 @@
       "rating": 4,
       "price": "$$",
       "location": "450m",
-      "url": "www.nandos.co.nz",
+      "url": "https://www.nandos.co.nz",
       "keywords": [
         "Comfort Food",
         "Vegetarian and Vegan Friendly"
@@ -151,11 +152,11 @@
       "comments": [
         {
           "name": "Taine",
-          "comment": "Nice as g"
+          "comment": "Nice as g. Highly recommend to all the gs."
         },
         {
           "name": "Ash",
-          "comment": "Gucci"
+          "comment": "Omg I love this place so much. It's totes the best."
         }
       ]
     },
@@ -166,7 +167,7 @@
       "rating": 4.6,
       "price": "$",
       "location": "90m",
-      "url": "www.pitapit.co.nz",
+      "url": "https://www.pitapit.co.nz",
       "keywords": [
         "Healthy",
         "Vegetarian and Vegan Friendly",
@@ -175,11 +176,11 @@
       "comments": [
         {
           "name": "Taine",
-          "comment": "Nice as g"
+          "comment": "Noice Noice Noice Noice Noice Noice"
         },
         {
           "name": "Ash",
-          "comment": "Gucci"
+          "comment": "Omg I love this place so much. It's totes the best."
         }
       ]
     },
@@ -199,11 +200,11 @@
       "comments": [
         {
           "name": "Taine",
-          "comment": "Nice as g"
+          "comment": "Nice as g. Highly recommend to all the gs."
         },
         {
           "name": "Ash",
-          "comment": "Gucci"
+          "comment": "Omg I love this place so much. It's totes the best."
         }
       ]
     },
@@ -222,11 +223,11 @@
       "comments": [
         {
           "name": "Taine",
-          "comment": "Nice as g"
+          "comment": "THIS PLACE SUCKS!!!! UM THE FOOD IS DUMB."
         },
         {
           "name": "Ash",
-          "comment": "Gucci"
+          "comment": "Omg I love this place so much. It's totes the best."
         }
       ]
     },
@@ -237,7 +238,7 @@
       "rating": 3.5,
       "price": "$",
       "location": "450m",
-      "url": "www.subway.co.nz",
+      "url": "https://www.subway.co.nz",
       "keywords": [
         "Healthy",
         "Vegetarian and Vegan Friendly"
@@ -245,11 +246,11 @@
       "comments": [
         {
           "name": "Taine",
-          "comment": "Nice as g"
+          "comment": "Nice as g. Highly recommend to all the gs."
         },
         {
           "name": "Ash",
-          "comment": "Gucci"
+          "comment": "Omg I love this place so much. It's totes the best."
         }
       ],
       "_locals": {}
