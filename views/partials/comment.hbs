@@ -1,0 +1,31 @@
+
+<div class="comment-block center">
+  <p class="comment-title">COMMENTS</p>
+  <div class="left-align">
+    {{#each comments}}
+      <div>
+        <span class="comment">{{name}}:&nbsp;&nbsp;&nbsp;</span>{{comment}}<br><br>
+      </div>
+    {{/each}}
+  </div>
+</div>
+
+<div class="namebutton">
+  <br>
+  <br>
+  <br>
+  <form class="form" action="/comments/{{id}}" method="post">
+  <label for="name">
+    Name:
+    <input type="text" name="name">
+  </label>
+  </div>
+  <div>
+<br>
+  <label for="comment">
+    Comment:
+    <input type="text" name="comment">
+  </label>
+  <input type="submit" name="" value="Submit">
+</form>
+</div>

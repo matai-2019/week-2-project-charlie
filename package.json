@@ -1,0 +1,32 @@
+{
+  "name": "Eat-D-A",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisha-kalidas/Eat-D-A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anisha-kalidas/Eat-D-A/issues"
+  },
+  "homepage": "https://github.com/anisha-kalidas/Eat-D-A#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "express-hbs": "^2.1.2",
+    "formidable": "^1.2.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "nodemon": "^1.19.1",
+    "supertest": "^4.0.2"
+  }
+}
