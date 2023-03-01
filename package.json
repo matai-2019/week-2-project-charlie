@@ -21,7 +21,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
-    "express-hbs": "^2.1.2",
+    "express-hbs": "^2.4.0",
     "formidable": "^1.2.1"
   },
   "devDependencies": {
